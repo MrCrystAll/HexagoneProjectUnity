@@ -6,5 +6,7 @@ Petit tip : les tourelles niveau 1 sont assez peu équilibrés, n'hésitez pas �
 
 Pour éviter de surcharger ce repo, certains dossiers manquent à l'appel, ça mettera un petit moment à charger (environ 2 minutes de mon coté from scratch), Unity devrait juste recharger le dossier Library et se plaindre qu'il a du le faire.
 
+**Le jeu bug si on le relance depuis un game over ou un simple retour au menu, je suis au courant, mais je n'ai pas trouvé de solution**
+
 # Authors
 Mathieu Suchet
